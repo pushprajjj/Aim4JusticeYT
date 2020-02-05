@@ -1,0 +1,13 @@
+{
+    "name": "PA Of Aim4 JusticeYT",
+    "version": "1.0.0",
+    "description": "i am here for help Aim4 justiceYT",
+    "main": "PA Of Aim4 JusticeYT.js",
+    "author": "pushprajj",
+    "scripts": {
+        "start": "node bot.js"
+    },
+    "dependencies": {
+	"discord.js" : "11.2.1"
+	}
+}
