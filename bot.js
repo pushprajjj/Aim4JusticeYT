@@ -15,7 +15,7 @@ bot.on('message', message =>{
                 message.channel.send('Aim4Justice is here buddy!') // Sends a message to the channel, with the content
             }
             else{
-                message.channel.send(sender + " I only understand .Aim right now. More will be added when my creator Aim4 JusticeYT is free. :) ")
+                message.channel.send("Hey" sender + " I only understand .Aim right now. More will be added when my creator Aim4 JusticeYT is free. ")
             }
         }
         else{
