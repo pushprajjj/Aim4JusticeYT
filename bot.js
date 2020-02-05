@@ -15,7 +15,7 @@ bot.on('message', message =>{
                 message.channel.send('Aim4Justice is here buddy!') // Sends a message to the channel, with the content
             }
             else{
-                message.channel.send(sender + " Hey, I am a infant now. i will be adult when my creator @Aim4JusticeYT will be free. ")
+                message.channel.send(sender + " Hey, I am a infant now. I will be adult when my creator @Aim4JusticeYT will be free for teach me. Currently i am enjoing here by reading your chat ")
             }
         }
         else{
